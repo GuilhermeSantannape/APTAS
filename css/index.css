@@ -1,0 +1,70 @@
+.cabesalho{
+		margin-top: 0px;
+		margin-left: 0px;
+		margin-right: 0px;
+		 height: 25px;
+		  width: 100%;
+		text-align: center;
+	
+		background-color: #838B8B;
+
+
+}
+
+.logo{
+
+		
+ 		height: 25px;
+		width: 100px.
+
+
+}
+
+.logo img{
+
+ 		height: 250px;
+		width: 100%;
+		float: right;
+}
+
+
+.menu{
+		border-color: white;
+		color: white;
+		text-align: center;
+		height: 42px;
+		width: 100%;
+		background-color: #838B8B;
+		float: right;
+		
+		
+	
+}
+
+.menu table{
+	table-layout: fixed;
+  text-align: center;
+
+  border-top:#838B8B;
+  border-bottom:#838B8B;
+   border-left:#838B8B;
+  border-right:#838B8B;
+
+
+
+}
+
+.menu a{
+	text-decoration:none; 
+	color: white;
+}
+
+.menu td{
+	  padding: 10px;
+}
+
+.rodape img{
+	height: 250px;
+		width: 100%;
+		float: right;
+}
